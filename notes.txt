@@ -1,0 +1,4 @@
+1) Document routine at high level of specificity.
+2) Create algorithm for determining most likely action at any given time
+3) Use data for supervised learning
+4) Create program for quickly documenting routine, updating network

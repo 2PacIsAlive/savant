@@ -1,0 +1,4 @@
+1) run ipython notebook [ $ipython notebook ]
+2) notebook will open at localhost:8888
+3) create new terminal
+4) run code!
